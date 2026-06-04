@@ -1,0 +1,1 @@
+-- Script HospitalDB con tablas
