@@ -52,3 +52,4 @@ CREATE TABLE TEmpleadoProyecto (
     FOREIGN KEY (nProyectoID) REFERENCES TProyecto(nProyectoID)
 );-- prueba de modificación
 -- prueba de modificación
+-- prueba de modificación
