@@ -50,4 +50,4 @@ CREATE TABLE TEmpleadoProyecto (
     PRIMARY KEY (nEmpleadoID, nProyectoID),
     FOREIGN KEY (nEmpleadoID) REFERENCES TEmpleado(nEmpleadoID),
     FOREIGN KEY (nProyectoID) REFERENCES TProyecto(nProyectoID)
-);
+);-- prueba de modificación
